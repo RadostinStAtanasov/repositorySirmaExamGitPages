@@ -18,7 +18,7 @@ body {
 }
 
 .header-home-page-container {
-    background-image: url("/docs/places-to-visit-in-bulgaria.jpg");
+    background-image: url("places-to-visit-in-bulgaria.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     border-radius: 16px;
@@ -226,7 +226,7 @@ body {
 .background-img-1 {
     background: 
     linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0)),
-    url('/docs/200819101951-07-reconnect-bulgaria-highlights-nessebar.jpg') no-repeat;
+    url('200819101951-07-reconnect-bulgaria-highlights-nessebar.jpg') no-repeat;
     background-size: 430px 400px;
     width: 430px;
     height: 400px;
@@ -235,7 +235,7 @@ body {
 .background-img-2 {
     background: 
     linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0)),
-    url('/docs/plovdiv-4.jpg') no-repeat;
+    url('plovdiv-4.jpg') no-repeat;
     background-size: 430px 400px;
     width: 430px;
     height: 400px;
@@ -244,7 +244,7 @@ body {
 .background-img-3 {
     background: 
     linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0)),
-    url('/docs/1+-+15.jpeg') no-repeat;
+    url('1+-+15.jpeg') no-repeat;
     background-size: 430px 400px;
     width: 430px;
     height: 400px;
@@ -394,7 +394,7 @@ body {
 /* flexible travel plans */
 
 .background-flexible-img-1 {
-    background-image: url("/docs/starosel.jpg");
+    background-image: url("starosel.jpg");
     background-repeat: no-repeat;
     background-size: 430px 400px;
     width: 430px;
@@ -405,7 +405,7 @@ body {
     
 }
 .background-flexible-img-2 {
-    background-image: url("/docs/Kings\ Valley.jpg");
+    background-image: url("Kings\ Valley.jpg");
     background-repeat: no-repeat;
     background-size: 430px 400px;
     width: 430px;
@@ -415,7 +415,7 @@ body {
     align-items: flex-end;
 }
 .background-flexible-img-3 {
-    background-image: url("/docs/hotel\ bansko.jpg");
+    background-image: url("hotel\ bansko.jpg");
     background-repeat: no-repeat;
     background-size: 430px 400px;
     width: 430px;
